@@ -1,0 +1,42 @@
+* { 
+  padding: 0;
+  margin: 0;s
+}
+
+.greybanner {
+  height: 100px;
+  background-color: blue;
+  display:flex;
+  padding: 15px;
+
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: grey;
+}
+
+.text {
+  padding: 100px;
+  background-color: red;
+  height: 100px;
+  font-weight: bold;
+}
+
+.row1 {
+  background-color: yellow;
+  height: 100px;
+}
+.row2 {
+  background-color: pink;
+  height: 100px;
+}
+.row3 {
+  height: 100px;
+  background-color: purple;
+}
+.row4 {
+  background-color: orange;
+  height: 100px;
+}
